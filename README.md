@@ -1,0 +1,2 @@
+# MakeRunOnce
+MakeRunOnce是超级斜杠开发的，一款能够帮助大家方便触发Make.com自动化工作流运行的小工具。大家平时是否会觉得搭建好的Make自动化工作流，想要让其按需运行时，每次都要进入到Make后台点击Run Once，这种方式太麻烦了，使用MakeRunOnce小工具仅能解决这个问题！
